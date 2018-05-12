@@ -1,0 +1,25 @@
+_repo: The-Honest-American-Voter-s-Little-Catechism-for-1880_28079
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harding, Blythe
+    gutenberg_agent_id: '33127'
+    url: http://www.gutenberg.org/2009/agents/33127
+description: ''
+gutenberg_issued: '2009-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28079'
+  lccn: '18008833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Campaign literature, 1880 -- Democratic'
+- !lcc 'E660'
+title: The Honest American Voter's Little Catechism for 1880
+url: http://www.gutenberg.org/ebooks/28079
